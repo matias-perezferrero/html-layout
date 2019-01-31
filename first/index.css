@@ -1,0 +1,39 @@
+header {
+    background-color: black;
+    height: 20vh;
+    width: 100%;
+}
+
+.sidebar-left {
+    width: 15%;
+    float: left;
+    background-color: lightgrey;
+    height: 80vh;
+}
+
+.main-content {
+    float: left;
+    background-color: lightgoldenrodyellow;
+    height: 70vh;
+    width: 70%;
+}
+
+.sidebar-right {
+    width: 15%;
+    float: left;
+    background-color: lightgrey;
+    height: 80vh;
+}
+
+footer {
+    background-color: black;
+    height: 10vh;
+    width: 70%;
+    position: absolute;
+    bottom: 0;
+    left: 15%
+}
+
+body {
+    margin: 0
+}
